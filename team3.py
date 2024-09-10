@@ -9,7 +9,10 @@ sum = 0
 for i in numbers:
   sum += i
 
-# Print the sum
-print(sum)
+ #Calculate the average
+average = sum / 10
+
+# Print the average
+print(average)
 
 print ("branch by neha")
